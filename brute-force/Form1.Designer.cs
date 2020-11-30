@@ -1,5 +1,5 @@
 ﻿
-namespace brute_force
+namespace wbEmulator
 {
     partial class Form1
     {

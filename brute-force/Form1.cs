@@ -11,7 +11,7 @@ using System.Threading;
 using System.IO.Ports;
 
 
-namespace brute_force
+namespace wbEmulator
 {
     public partial class Form1 : Form
     {
